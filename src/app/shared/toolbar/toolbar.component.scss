@@ -1,0 +1,27 @@
+:host ::ng-deep p-toolbar {
+  width: 100%;
+  .p-toolbar{
+    background: #153243;
+    border: none;
+    border-radius: 0px;
+    height: 5rem;
+  }
+}
+h1{
+  color: #EEF0EB;
+  font-weight: 500;
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+a{
+  i{
+    padding-right: 0.2rem;
+  }
+  text-decoration: none;
+  color: #EEF0EB;
+  padding: 0 1rem 0 1rem;
+}
+a:hover{
+  color: #caccc7;
+}
+
